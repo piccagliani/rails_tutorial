@@ -1,4 +1,6 @@
 FirstApp::Application.routes.draw do
+  get "hello/index"
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
